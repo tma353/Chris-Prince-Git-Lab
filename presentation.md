@@ -42,6 +42,7 @@ Geopandas is the GIS-extension of <code>pandas</code>. It also builds on other s
 * shapely
 * pyproj
 * rtree
+* pysal
 
 ---
 
